@@ -11,10 +11,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discordl&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Test-Alerting-Notification-Dispatch/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Test-Alerting-Notification-Dispatch?style=social&color=white" alt="Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Test-Alerting-Notification-Dispatch/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Test-Alerting-Notification-Dispatch?style=social&color=white" alt="Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Test-Alerting-Notification-Dispatch/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0%201.0-blue.svg" alt="License: CC0 1.0" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -44,6 +47,8 @@
   - [NoticeMe](#14-noticeme-)
 - [📊 Comparison Matrix at a Glance](#-comparison-matrix-at-a-glance)
 - [💡 Architectural Patterns for Test Alerting](#-architectural-patterns-for-test-alerting)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -302,6 +307,24 @@ When architecting a continuous testing and alerting pipeline, engineering organi
 1. **Direct On-Call Escalation (Pattern A):** PagerDuty, Opsgenie, or GoAlert are wired to critical pipeline quality gates. If a release-blocking smoke suite fails, on-call engineers are paged via SMS or phone.
 2. **Headless Multi-Channel Dispatch (Pattern B):** Utilities like Apprise, Shoutrrr, or ntfy dispatch pipeline summaries directly to team chat channels (Slack, Discord, Telegram) without recurring SaaS costs.
 3. **Intelligent AIOps & Deduplication (Pattern C):** Platforms like Keep or BrowserStack inspect failure signatures, filter out known flaky tests, and aggregate correlated errors before pinging engineers, preventing alert fatigue.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and using this curated directory! Maintaining and researching high-quality open-source and developer tooling collections takes time and continuous curation.
+
+If you find this repository valuable, please consider supporting the project:
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and share it with your engineering team or DevOps communities.
+- 📣 **Spread the word** on social media, blogs, or developer forums.
+- ☕ **Buy me a coffee / Sponsor**: Support further open-source research and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Test-Alerting-Notification-Dispatch&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Test-Alerting-Notification-Dispatch&type=date&legend=top-left)
 
 ---
 
