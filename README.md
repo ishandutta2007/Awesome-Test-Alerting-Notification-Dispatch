@@ -111,7 +111,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 1. [Novu](https://github.com/novuhq/novu) [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)
+### 1. [Novu](https://github.com/novuhq/novu) [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)
 - **Tech Stack:** 🟦 TypeScript, Node.js, React, Redis, MongoDB
 - **License:** 📜 MIT / Apache-2.0
 - **Summary:** The leading open-source notification infrastructure platform built for developer and engineering teams. Features a unified API to trigger notifications across In-App, Push, Email, SMS, Chat (Slack, Teams, Discord), and Webhooks, accompanied by an administrative workflow builder and subscriber management.
@@ -120,7 +120,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 2. [ntfy](https://github.com/binwiederhier/ntfy) [![GitHub stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers)
+### 2. [ntfy](https://github.com/binwiederhier/ntfy) [![GitHub_Stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers)
 - **Tech Stack:** 🐹 Go, Vue.js, SQLite
 - **License:** 📜 Apache-2.0 / GPL-2.0
 - **Summary:** Simple HTTP-based pub-sub notification service that sends real-time push notifications to phone or desktop using simple `PUT` or `POST` requests. No registration or proprietary client libraries required; compatible with standard curl commands in CI/CD scripts.
@@ -129,7 +129,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 3. [Apprise](https://github.com/caronc/apprise) [![GitHub stars](https://img.shields.io/github/stars/caronc/apprise?style=social&color=white)](https://github.com/caronc/apprise/stargazers)
+### 3. [Apprise](https://github.com/caronc/apprise) [![GitHub_Stars](https://img.shields.io/github/stars/caronc/apprise?style=social&color=white)](https://github.com/caronc/apprise/stargazers)
 - **Tech Stack:** 🐍 Python
 - **License:** 📜 MIT
 - **Summary:** Apprise is the ultimate push notification dispatcher library supporting nearly every notification service available (over 90+ platforms including Telegram, Discord, Slack, Matrix, Twilio, Email, Pushover, Gotify, and desktop notifications) via a clean, unified URL schema (`mailto://`, `slack://`, `tgram://`).
@@ -138,7 +138,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 4. [Gotify](https://github.com/gotify/server) [![GitHub stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers)
+### 4. [Gotify](https://github.com/gotify/server) [![GitHub_Stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers)
 - **Tech Stack:** 🐹 Go, Vue.js, SQLite
 - **License:** 📜 MIT
 - **Summary:** A self-hosted, lightweight push notification server for sending and receiving messages in real-time via WebSockets. Includes a clean responsive web UI and a companion Android application.
@@ -147,7 +147,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 5. [Keep (keephq)](https://github.com/keephq/keep) [![GitHub stars](https://img.shields.io/github/stars/keephq/keep?style=social&color=white)](https://github.com/keephq/keep/stargazers)
+### 5. [Keep (keephq)](https://github.com/keephq/keep) [![GitHub_Stars](https://img.shields.io/github/stars/keephq/keep?style=social&color=white)](https://github.com/keephq/keep/stargazers)
 - **Tech Stack:** 🐍 Python, Next.js, FastAPI, PostgreSQL
 - **License:** 📜 Apache-2.0
 - **Summary:** The premier open-source AIOps, alert deduplication, and workflow automation platform. Keep acts as an alert orchestrator that correlates, deduplicates, and enriches alerts from monitoring tools, CI/CD pipelines, and synthetic test suites before dispatching them to incident response channels.
@@ -156,7 +156,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 6. [Prometheus Alertmanager](https://github.com/prometheus/alertmanager) [![GitHub stars](https://img.shields.io/github/stars/prometheus/alertmanager?style=social&color=white)](https://github.com/prometheus/alertmanager/stargazers)
+### 6. [Prometheus Alertmanager](https://github.com/prometheus/alertmanager) [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/alertmanager?style=social&color=white)](https://github.com/prometheus/alertmanager/stargazers)
 - **Tech Stack:** 🐹 Go
 - **License:** 📜 Apache-2.0
 - **Summary:** The battle-tested alert routing and deduplication engine of the Prometheus monitoring ecosystem. Alertmanager handles alert deduplication, grouping, routing to downstream receivers (email, Slack, VictorOps, custom webhooks), and alert silencing.
@@ -165,7 +165,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 7. [GoAlert](https://github.com/target/goalert) [![GitHub stars](https://img.shields.io/github/stars/target/goalert?style=social&color=white)](https://github.com/target/goalert/stargazers)
+### 7. [GoAlert](https://github.com/target/goalert) [![GitHub_Stars](https://img.shields.io/github/stars/target/goalert?style=social&color=white)](https://github.com/target/goalert/stargazers)
 - **Tech Stack:** 🐹 Go, React, PostgreSQL
 - **License:** 📜 Apache-2.0
 - **Summary:** Built and open-sourced by Target, GoAlert provides on-call scheduling, automated escalation chains, and multi-channel notifications (Twilio SMS/voice, Slack, SMTP email). It is widely recognized as the premier full-fledged self-hosted replacement for PagerDuty and Opsgenie with zero per-user licensing costs.
@@ -174,7 +174,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 8. [Alerta](https://github.com/alerta/alerta) [![GitHub stars](https://img.shields.io/github/stars/alerta/alerta?style=social&color=white)](https://github.com/alerta/alerta/stargazers)
+### 8. [Alerta](https://github.com/alerta/alerta) [![GitHub_Stars](https://img.shields.io/github/stars/alerta/alerta?style=social&color=white)](https://github.com/alerta/alerta/stargazers)
 - **Tech Stack:** 🐍 Python, Flask, MongoDB / PostgreSQL, AngularJS
 - **License:** 📜 Apache-2.0
 - **Summary:** A scalable and flexible alert console designed to consolidate, correlate, and visualize alerts from diverse monitoring and testing systems into a unified single-pane-of-glass dashboard. Includes rich query capabilities and alert lifecycle states (ack, closed, expired).
@@ -183,7 +183,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 9. [Shoutrrr](https://github.com/containrrr/shoutrrr) [![GitHub stars](https://img.shields.io/github/stars/containrrr/shoutrrr?style=social&color=white)](https://github.com/containrrr/shoutrrr/stargazers)
+### 9. [Shoutrrr](https://github.com/containrrr/shoutrrr) [![GitHub_Stars](https://img.shields.io/github/stars/containrrr/shoutrrr?style=social&color=white)](https://github.com/containrrr/shoutrrr/stargazers)
 - **Tech Stack:** 🐹 Go
 - **License:** 📜 Apache-2.0
 - **Summary:** A lightweight notification library and CLI utility written in Go that delivers notifications to multiple services (Slack, Discord, Telegram, Pushover, Teams, Mattermost, RocketChat, SMTP) using standardized service URLs.
@@ -192,7 +192,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 10. [versus-incident](https://github.com/VersusControl/versus-incident) [![GitHub stars](https://img.shields.io/github/stars/VersusControl/versus-incident?style=social&color=white)](https://github.com/VersusControl/versus-incident/stargazers)
+### 10. [versus-incident](https://github.com/VersusControl/versus-incident) [![GitHub_Stars](https://img.shields.io/github/stars/VersusControl/versus-incident?style=social&color=white)](https://github.com/VersusControl/versus-incident/stargazers)
 - **Tech Stack:** 🐹 Go, Vue.js, SQLite
 - **License:** 📜 GPL-3.0
 - **Summary:** A self-hosted incident management and alerting system equipped with universal alert template support for Prometheus Alertmanager, Grafana, Sentry, CloudWatch SNS, and custom JSON payloads. It accepts incidents via `POST /api/incidents` and offers AI-assisted anomaly detection.
@@ -201,7 +201,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 11. [OpsKnight](https://github.com/opsknight-labs/OpsKnight) [![GitHub stars](https://img.shields.io/github/stars/opsknight-labs/OpsKnight?style=social&color=white)](https://github.com/opsknight-labs/OpsKnight/stargazers)
+### 11. [OpsKnight](https://github.com/opsknight-labs/OpsKnight) [![GitHub_Stars](https://img.shields.io/github/stars/opsknight-labs/OpsKnight?style=social&color=white)](https://github.com/opsknight-labs/OpsKnight/stargazers)
 - **Tech Stack:** 🟦 Next.js, TypeScript, PostgreSQL, Prisma
 - **License:** 📜 AGPL-3.0
 - **Summary:** A modern, full-stack incident management platform featuring on-call rotations, public/private status pages, and 22+ out-of-the-box integrations. Runs as an easily deployable Docker Compose or Kubernetes Helm workload.
@@ -210,7 +210,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 12. [Herald](https://github.com/101xAnshu/herald) [![GitHub stars](https://img.shields.io/github/stars/101xAnshu/herald?style=social&color=white)](https://github.com/101xAnshu/herald/stargazers)
+### 12. [Herald](https://github.com/101xAnshu/herald) [![GitHub_Stars](https://img.shields.io/github/stars/101xAnshu/herald?style=social&color=white)](https://github.com/101xAnshu/herald/stargazers)
 - **Tech Stack:** 🟦 TypeScript, Node.js
 - **License:** 📜 MIT
 - **Summary:** A headless, bring-your-own-database notification infrastructure library designed to provide in-app, email, and chat notifications without being bound to third-party vendor clouds.
@@ -219,7 +219,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 13. [ChronoCourier](https://github.com/stillLookingforUsername/ChronoCourier) [![GitHub stars](https://img.shields.io/github/stars/stillLookingforUsername/ChronoCourier?style=social&color=white)](https://github.com/stillLookingforUsername/ChronoCourier/stargazers)
+### 13. [ChronoCourier](https://github.com/stillLookingforUsername/ChronoCourier) [![GitHub_Stars](https://img.shields.io/github/stars/stillLookingforUsername/ChronoCourier?style=social&color=white)](https://github.com/stillLookingforUsername/ChronoCourier/stargazers)
 - **Tech Stack:** 🐍 Python, Flask, Redis
 - **License:** 📜 MIT
 - **Summary:** A priority-based alert queuing and notification gateway that receives HTTP webhooks, parses payloads, and routes messages to Telegram and email destinations with configurable retry backoffs and priority queues.
@@ -228,7 +228,7 @@ Curated self-hosted, community-driven Test Alerting and Notification Dispatch en
 
 ---
 
-### 14. [NoticeMe](https://github.com/candy-xt/NoticeMe) [![GitHub stars](https://img.shields.io/github/stars/candy-xt/NoticeMe?style=social&color=white)](https://github.com/candy-xt/NoticeMe/stargazers)
+### 14. [NoticeMe](https://github.com/candy-xt/NoticeMe) [![GitHub_Stars](https://img.shields.io/github/stars/candy-xt/NoticeMe?style=social&color=white)](https://github.com/candy-xt/NoticeMe/stargazers)
 - **Tech Stack:** 🐍 Python, SQLite, FastMCP
 - **License:** 📜 MIT
 - **Summary:** A lightweight notification broker supporting HTTP webhooks, MQTT message queues, and a native **Model Context Protocol (MCP)** server for direct integration with AI coding assistants and autonomous agents.
